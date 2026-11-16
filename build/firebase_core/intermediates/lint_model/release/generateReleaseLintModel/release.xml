@@ -1,0 +1,31 @@
+<variant
+    name="release"
+    package="io.flutter.plugins.firebase.core"
+    minSdkVersion="24"
+    targetSdkVersion="34"
+    mergedManifest="/home/u/development/vriksh_care/build/firebase_core/intermediates/merged_manifest/release/processReleaseManifest/AndroidManifest.xml"
+    manifestMergeReport="/home/u/development/vriksh_care/build/firebase_core/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/u/development/vriksh_care/build/firebase_core/intermediates/default_proguard_files/global/proguard-android-optimize.txt-9.3.1"
+    partialResultsDir="/home/u/development/vriksh_care/build/firebase_core/intermediates/lint_partial_results/release/lintAnalyzeRelease/out">
+  <buildFeatures/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/main/kotlin:src/release/java:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"
+        keepRulesDirectories="src/main/keepRules:src/release/keepRules"
+        aarKeepRulesDirectories="src/main/aarKeepRules:src/release/aarKeepRules"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <artifact
+      classOutputs="/home/u/development/vriksh_care/build/firebase_core/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/u/development/vriksh_care/build/firebase_core/tmp/kotlin-classes/release:/home/u/development/vriksh_care/build/firebase_core/intermediates/compile_r_class_jar/release/generateReleaseRFile/R.jar"
+      type="MAIN"
+      applicationId="io.flutter.plugins.firebase.core"
+      generatedSourceFolders="/home/u/development/vriksh_care/build/firebase_core/generated/ap_generated_sources/release/out:/home/u/development/vriksh_care/build/firebase_core/generated/source/buildConfig/release"
+      desugaredMethodsFiles="/home/u/.gradle/caches/9.5.0/transforms/fddcc69ff50a20ea26aa772c4c155490/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

@@ -1,0 +1,27 @@
+<lint-module
+    format="1"
+    dir="/home/u/.pub-cache/hosted/pub.dev/firebase_auth-7.0.1/android"
+    name=":firebase_auth"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.auth:firebase_auth:1.0-SNAPSHOT"
+    agpVersion="9.3.1"
+    buildFolder="/home/u/development/vriksh_care/build/firebase_auth"
+    bootClassPath="/home/u/development/android-sdk/platforms/android-34/android.jar:/home/u/development/android-sdk/build-tools/36.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true"
+    highlightGradualR8Api="false">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

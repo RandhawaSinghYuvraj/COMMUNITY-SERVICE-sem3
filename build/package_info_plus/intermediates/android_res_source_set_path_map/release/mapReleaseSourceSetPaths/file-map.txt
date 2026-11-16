@@ -1,0 +1,9 @@
+dev.fluttercommunity.plus.packageinfo.package_info_plus-main-0 /home/u/.pub-cache/hosted/pub.dev/package_info_plus-10.2.2/android/src/main/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-1 /home/u/.pub-cache/hosted/pub.dev/package_info_plus-10.2.2/android/src/release/res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-2 /home/u/development/vriksh_care/build/package_info_plus/generated/res/pngs/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-updated_navigation_xml-3 /home/u/development/vriksh_care/build/package_info_plus/generated/updated_navigation_xml/release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-4 /home/u/development/vriksh_care/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-5 /home/u/development/vriksh_care/build/package_info_plus/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-6 /home/u/development/vriksh_care/build/package_info_plus/intermediates/merged_res/release/mergeReleaseResources
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-7 /home/u/development/vriksh_care/build/package_info_plus/intermediates/packaged_res/release/packageReleaseResources
+gradleHome-0 /home/u/.gradle

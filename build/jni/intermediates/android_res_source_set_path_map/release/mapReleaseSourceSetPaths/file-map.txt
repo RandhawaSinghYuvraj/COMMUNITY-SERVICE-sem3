@@ -1,0 +1,9 @@
+com.github.dart_lang.jni-main-0 /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/src/main/res
+com.github.dart_lang.jni-release-1 /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/src/release/res
+com.github.dart_lang.jni-pngs-2 /home/u/development/vriksh_care/build/jni/generated/res/pngs/release
+com.github.dart_lang.jni-updated_navigation_xml-3 /home/u/development/vriksh_care/build/jni/generated/updated_navigation_xml/release
+com.github.dart_lang.jni-mergeReleaseResources-4 /home/u/development/vriksh_care/build/jni/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.github.dart_lang.jni-mergeReleaseResources-5 /home/u/development/vriksh_care/build/jni/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.github.dart_lang.jni-release-6 /home/u/development/vriksh_care/build/jni/intermediates/merged_res/release/mergeReleaseResources
+com.github.dart_lang.jni-release-7 /home/u/development/vriksh_care/build/jni/intermediates/packaged_res/release/packageReleaseResources
+gradleHome-0 /home/u/.gradle

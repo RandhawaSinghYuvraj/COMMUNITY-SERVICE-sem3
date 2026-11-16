@@ -1,0 +1,10 @@
+com.vrikshcare.vriksh_care.app-main-0 /home/u/development/vriksh_care/android/app/src/main/res
+com.vrikshcare.vriksh_care.app-release-1 /home/u/development/vriksh_care/android/app/src/release/res
+com.vrikshcare.vriksh_care.app-pngs-2 /home/u/development/vriksh_care/build/app/generated/res/pngs/release
+com.vrikshcare.vriksh_care.app-res-3 /home/u/development/vriksh_care/build/app/generated/res/processReleaseGoogleServices
+com.vrikshcare.vriksh_care.app-updated_navigation_xml-4 /home/u/development/vriksh_care/build/app/generated/updated_navigation_xml/release
+com.vrikshcare.vriksh_care.app-packageReleaseResources-5 /home/u/development/vriksh_care/build/app/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.vrikshcare.vriksh_care.app-packageReleaseResources-6 /home/u/development/vriksh_care/build/app/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.vrikshcare.vriksh_care.app-merged-not-compiled-resources-7 /home/u/development/vriksh_care/build/app/intermediates/merged-not-compiled-resources/release
+com.vrikshcare.vriksh_care.app-release-8 /home/u/development/vriksh_care/build/app/intermediates/merged_res/release/mergeReleaseResources
+gradleHome-0 /home/u/.gradle

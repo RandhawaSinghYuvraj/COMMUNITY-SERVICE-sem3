@@ -1,0 +1,62 @@
+[
+{
+  "message": "Start JSON generation. Platform version: 21 min SDK version: arm64-v8a",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "rebuilding JSON /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a/android_gradle_build.json due to:",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "- no fingerprint file, will remove stale configuration folder",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "removing stale contents from \u0027/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a\u0027",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "created folder \u0027/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a\u0027",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "executing cmake /home/u/development/android-sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/home/u/development/android-sdk/ndk/28.2.13676358 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/u/development/android-sdk/ndk/28.2.13676358 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/u/development/android-sdk/ndk/28.2.13676358/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/u/development/android-sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/u/development/vriksh_care/build/jni/intermediates/cxx/RelWithDebInfo/3n6o1pq7/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/u/development/vriksh_care/build/jni/intermediates/cxx/RelWithDebInfo/3n6o1pq7/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a \\\n  -GNinja\n",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "/home/u/development/android-sdk/cmake/3.22.1/bin/cmake \\\n  -H/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d21 \\\n  -DANDROID_PLATFORM\u003dandroid-21 \\\n  -DANDROID_ABI\u003darm64-v8a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a \\\n  -DANDROID_NDK\u003d/home/u/development/android-sdk/ndk/28.2.13676358 \\\n  -DCMAKE_ANDROID_NDK\u003d/home/u/development/android-sdk/ndk/28.2.13676358 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/home/u/development/android-sdk/ndk/28.2.13676358/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/home/u/development/android-sdk/cmake/3.22.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/home/u/development/vriksh_care/build/jni/intermediates/cxx/RelWithDebInfo/3n6o1pq7/obj/arm64-v8a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/home/u/development/vriksh_care/build/jni/intermediates/cxx/RelWithDebInfo/3n6o1pq7/obj/arm64-v8a \\\n  -DCMAKE_BUILD_TYPE\u003dRelWithDebInfo \\\n  -B/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a \\\n  -GNinja\n",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "Received process result: 0",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "Exiting generation of /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a/compile_commands.json.bin normally",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "done executing cmake",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "hard linked /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/RelWithDebInfo/3n6o1pq7/arm64-v8a/compile_commands.json to /home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/android/.cxx/tools/release/arm64-v8a/compile_commands.json",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+},
+{
+  "message": "JSON generation completed without problems",
+  "file": "/home/u/.pub-cache/hosted/pub.dev/jni-1.1.2/src/CMakeLists.txt",
+  "tag": "release|arm64-v8a"
+}
+]

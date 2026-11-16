@@ -1,0 +1,9 @@
+io.flutter.plugins.firebase.core.firebase_core-main-0 /home/u/.pub-cache/hosted/pub.dev/firebase_core-5.1.0/android/src/main/res
+io.flutter.plugins.firebase.core.firebase_core-release-1 /home/u/.pub-cache/hosted/pub.dev/firebase_core-5.1.0/android/src/release/res
+io.flutter.plugins.firebase.core.firebase_core-pngs-2 /home/u/development/vriksh_care/build/firebase_core/generated/res/pngs/release
+io.flutter.plugins.firebase.core.firebase_core-updated_navigation_xml-3 /home/u/development/vriksh_care/build/firebase_core/generated/updated_navigation_xml/release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-4 /home/u/development/vriksh_care/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-5 /home/u/development/vriksh_care/build/firebase_core/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-release-6 /home/u/development/vriksh_care/build/firebase_core/intermediates/merged_res/release/mergeReleaseResources
+io.flutter.plugins.firebase.core.firebase_core-release-7 /home/u/development/vriksh_care/build/firebase_core/intermediates/packaged_res/release/packageReleaseResources
+gradleHome-0 /home/u/.gradle

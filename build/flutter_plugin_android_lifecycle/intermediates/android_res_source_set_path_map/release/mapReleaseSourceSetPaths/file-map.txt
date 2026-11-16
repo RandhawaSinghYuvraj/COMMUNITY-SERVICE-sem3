@@ -1,0 +1,9 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-0 /home/u/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.35/android/src/main/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-1 /home/u/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.35/android/src/release/res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-2 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/generated/res/pngs/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-updated_navigation_xml-3 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/generated/updated_navigation_xml/release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-4 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-5 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-6 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/intermediates/merged_res/release/mergeReleaseResources
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-7 /home/u/development/vriksh_care/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/release/packageReleaseResources
+gradleHome-0 /home/u/.gradle
